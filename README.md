@@ -1,4 +1,14 @@
-### Hi there 👋
+# Bachelor Degree 
+
+Well, this is a Bachelor Degree in Compute Science. 
+
+**Bachelor-Degree/Bachelor-Degree** is a repository of Undergrate Design in Compute Science. 
+
+## The code will be updated this month. 
+
+The program may use Python, Dart( for Flutter ) and C++ .
+
+## Everything is coming soon... 
 
 <!--
 **Bachelor-Degree/Bachelor-Degree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
